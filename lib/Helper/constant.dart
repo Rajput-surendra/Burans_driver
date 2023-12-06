@@ -1,6 +1,6 @@
 final String appName = 'Burans Driver';
 
-final String baseUrl = 'https://developmentalphawizz.com/burans/delivery_boy/app/v1/api/';
+final String baseUrl = 'https://buransmart.in/delivery_boy/app/v1/api/';
 
 final int timeOut = 50;
 const int perPage = 10;
